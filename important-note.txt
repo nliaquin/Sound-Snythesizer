@@ -1,0 +1,1 @@
+winmm.lib is a necessary component and should be added to the linker references before use.
